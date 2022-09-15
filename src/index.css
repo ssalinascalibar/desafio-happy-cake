@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav{
+  background-color: #d02034;
+}
+
+.nav-content{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-light .navbar-brand {
+  color: #fff;
+}
+
+.home-cake{
+  font-size: 8em;
+}
+
+form{
+  text-align: center;
+}
